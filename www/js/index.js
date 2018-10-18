@@ -31,5 +31,5 @@ document.addEventListener("deviceready", onDeviceReady, false);
         var value = window.localStorage.getItem(pen);
         
         
-	alert("device readiiiii");
+	alert("device readyt");
     }
